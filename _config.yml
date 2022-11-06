@@ -4,7 +4,7 @@ subtitle: In ourselves. In our community.
 email: chris@restoringpride.org
 description: Restoring Pride provides safe, stable, transitional housing to all members of the LGBTQ community who are homeless and suffering from addiction so they can begin anew.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: #https://restoringpride.org
+url: https://restoringpride.org
 author: Christopher Wetherington
 street_address: 931 Farragut Street NW
 city: Washington
