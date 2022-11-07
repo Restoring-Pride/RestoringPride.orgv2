@@ -12,6 +12,7 @@ state: DC
 zip_code: 20011
 country: United States of America
 phone: (202) 251-6434
+logo: images/logo.png
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
