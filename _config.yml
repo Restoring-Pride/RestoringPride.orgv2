@@ -1,6 +1,8 @@
 # site settings
 title: Restoring Pride.
-subtitle: In ourselves. In our community.
+subtitle: |
+  In ourselves. 
+  In our community.
 email: chris@restoringpride.org
 description: Restoring Pride provides safe, stable, transitional housing to all members of the LGBTQ community who are homeless and suffering from addiction so they can begin anew.
 baseurl: "/" # the subpath of your site, e.g. /blog
