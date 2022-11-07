@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Us
 description: About Restoring Pride
 image: https://user-images.githubusercontent.com/32145870/200220560-b0127877-0e9a-44af-acda-5cf6e93285bf.png
